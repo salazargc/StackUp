@@ -1,2 +1,2 @@
 # StackUp
-Sentiment Analysis with Python
+Sentiment Analysis in Python
